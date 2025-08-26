@@ -3,7 +3,7 @@
 Este é um site de vitrine de produtos desenvolvido com **HTML, CSS e JavaScript**, apresentando um carrossel interativo e um design moderno.  
 O foco do projeto é demonstrar técnicas de front-end, animações e responsividade. Por enquanto o site está responsivo somente para Desktop 
 
-🔗 **Acesse o site publicado aqui:** [Projeto Loja](https://davivasconcelos07.github.io/projeto-site/)
+🔗 **Acesse o site publicado aqui:** [Projeto Loja](https://davivasconcelos07.github.io/Vitrine-de-vendas/)
 
 ---
 
